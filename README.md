@@ -1,8 +1,6 @@
 # 📊 Customer Shopping Behaviour Analysis
 An end-to-end data analytics project that analyzes customer shopping behavior using Python, PostgreSQL, and Power BI. The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, interactive dashboard development, and comprehensive project documentation to generate actionable business insights.
 
-# 📊 Customer Shopping Behavior Analysis
-
 ## Overview
 
 The **Customer Shopping Behavior Analysis** project demonstrates a complete data analytics workflow, transforming raw customer shopping data into meaningful business insights. The project includes data preprocessing in Python, exploratory data analysis (EDA), SQL-based analysis using PostgreSQL, interactive dashboard creation in Power BI, and documentation through a detailed project report and presentation.
